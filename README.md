@@ -2,7 +2,6 @@
 
 <p align="center">
   Profile under construction! 
-  img
 </p>
 
 
