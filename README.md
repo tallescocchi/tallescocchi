@@ -1,4 +1,10 @@
-Hello, I'm Talles 👋
+<h1 align="center"> Hello, I'm Talles 👋 </h1>
+
+<p align="center">
+  Profile under construction! 
+  img
+</p>
+
 
 <!--
 **tallescocchi/tallescocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
