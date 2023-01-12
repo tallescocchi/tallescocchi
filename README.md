@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Talles <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tallescocchi&color=yellow" alt="Profile views" /></p>
 
-💫 About Me:
+<h2>💫 About Me:</h2>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 ## 🌐 Socials:
