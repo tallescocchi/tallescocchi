@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Talles 👋 </h1>
+<h1 align="center"> Hello, I'm Talles <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
